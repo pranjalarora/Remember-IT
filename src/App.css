@@ -1,0 +1,86 @@
+
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.main-jumbo {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: linear-gradient(to right,#7895F9,#6c7ceb) ;
+  color: #fefefe;
+}
+
+.hi{
+  background: #010067 ;
+  color:#ffffff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: x-large;
+  padding: 1.25vh 1.25vh 1.25vh 1.25vh;
+}
+
+.hash{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:#ffffff;
+}
+.image > img {
+width: 100%
+}
+.share{
+  background: #010067 ;
+  color: #fefefe;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tasks{
+  width: 100%;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-width: 0px;
+  border-radius: 0.5em;
+}
+
+Button:hover,Button:active{
+  background: linear-gradient(to right,#7895F9,#6c7ceb) ;
+}
+
+.add{
+  cursor: pointer;
+}
+
+.protask{
+  color: #FFA500;
+}
+
+.tick{
+  color: #33A532;
+}
+
+.dash-jumbo{
+  background-image: url('C:\Users\ASUS\Desktop\Remember-it\src\components\backimg.jpeg');
+  background-repeat: repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.card-header,.add, .modalbck{
+  background-color:#DCDCDC;
+}
+
+.load {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top:50%;
+  left: -2.5%;
+  color:#000000;
+}
