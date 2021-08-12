@@ -1,26 +1,22 @@
 {
   "todo": [
     {
-      "name": "Take a Loan",
+      "name": "New Project",
       "id": 1
+    },
+    {
+      "name": "New project",
+      "id": 2
+    },
+    {
+      "name": "Operating systems",
+      "id": 3
     }
   ],
   "inProgress": [
     {
-      "id": 2,
-      "name": "Design Logo"
-    },
-    {
-      "id": 3,
-      "name": "Sign Office Lease"
-    },
-    {
-      "name": "Hire Accountant",
-      "id": 4
-    },
-    {
-      "name": "myapp",
-      "id": 5
+      "name": "TO DO APP",
+      "id": 1
     }
   ],
   "completed": [
@@ -39,6 +35,26 @@
     {
       "name": "Build Website",
       "id": 3
+    },
+    {
+      "name": "Design Logo",
+      "id": 4
+    },
+    {
+      "name": "Finish Data Structures",
+      "id": 5
+    },
+    {
+      "name": "Finish Algorithms",
+      "id": 6
+    },
+    {
+      "name": "Recommender Apriori",
+      "id": 7
+    },
+    {
+      "name": "OOPS",
+      "id": 10
     }
   ]
 }

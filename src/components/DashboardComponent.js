@@ -142,7 +142,7 @@ class Dashboard extends Component{
             <Jumbotron className="dash-jumbo">
                 <Navbar dark>
                     <NavbarBrand className="hash" href="/">
-                        <h4><strong><i class="fa fa-angle-double-left" aria-hidden="true"></i> Remember-it</strong></h4>
+                        <h4><strong><i class="fa fa-angle-double-left" aria-hidden="true"></i>Task-it-Up</strong></h4>
                     </NavbarBrand>
                 </Navbar>
                 {this.state.isLoading&&
